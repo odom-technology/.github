@@ -13,6 +13,20 @@ private.
 Brand sources, exact infrastructure, deployment configuration, and private application
 code are maintained in restricted repositories until explicitly approved for release.
 
+## Repository map
+
+| Repository | Visibility | Responsibility |
+| --- | --- | --- |
+| `homelab-docs` | Public | Sanitized architecture, build, operations, and recovery guides |
+| `homelab-blueprints` | Public | Reusable examples, schemas, and automation patterns |
+| `brand-assets` | Private | Brand sources, release assets, and validation |
+| `homelab-infrastructure` | Private | Exact inventory, Proxmox, network, automation, and recovery source |
+| `homelab-services` | Private | Active service placement, deployment, configuration, and runbooks |
+| `internal-dashboard` | Private | Tailnet-only dashboard product and application source |
+
+Substantial custom applications receive their own repositories. Their deployment
+integration remains in `homelab-services`.
+
 ## Project principles
 
 - Rebuildable infrastructure instead of undocumented manual configuration.
