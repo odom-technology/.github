@@ -1,0 +1,23 @@
+name: Documentation improvement
+description: Report unclear, incomplete, or inaccurate documentation.
+title: "[Docs]: "
+labels:
+  - documentation
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Page or section
+      placeholder: docs/network/dns.md
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What needs improvement?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested change
