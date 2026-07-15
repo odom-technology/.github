@@ -9,7 +9,9 @@ private.
 
 - **homelab-docs** — step-by-step architecture and operations guides.
 - **homelab-blueprints** — reusable automation, templates, and example deployments.
-- **brand-assets** — ODOM Technology visual assets when approved for publication.
+
+Brand sources, exact infrastructure, deployment configuration, and private application
+code are maintained in restricted repositories until explicitly approved for release.
 
 ## Project principles
 
