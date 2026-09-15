@@ -6,7 +6,8 @@ for future reusable GitHub workflow templates for the `odom-technology` organiza
 
 ODOM Tech is an independent product studio building software products, developer tools,
 hosted services, and the reliable infrastructure that supports them. The public profile
-is the front door to work that is ready for people to use or explore.
+routes visitors to the public portfolio at
+[odom-technology.github.io](https://odom-technology.github.io).
 
 ## Structure
 
