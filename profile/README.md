@@ -1,42 +1,28 @@
-# ODOM Technology
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/odom-tech-horizontal-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/odom-tech-horizontal-black.svg">
+  <img alt="ODOM Tech — Open Development & Operations Mesh" src="./assets/odom-tech-horizontal-black.svg" width="720">
+</picture>
 
-ODOM Technology documents the design, construction, operation, and recovery of a
-small, segmented Proxmox homelab with rack-independent household networking. Public
-repositories contain sanitized learning material and reusable examples; exact
-infrastructure and operational configuration remain private.
+# Practical technology, built with purpose
 
-The current work is focused on final network segmentation, clean infrastructure
-rebuilds, off-host recovery, and the service definitions that follow them. Public
-documentation describes the target pattern and must not be interpreted as a live
-service-status page.
+ODOM Tech is an independent product studio building practical software, developer
+tools, hosted services, and the reliable infrastructure behind them.
 
-## Public projects
+## What we build
 
-- **homelab-docs** — step-by-step architecture and operations guides.
-- **homelab-blueprints** — sanitized reference architectures, schemas, and examples;
-  reusable automation remains under development.
+- Focused software products that solve real problems.
+- Developer tools and reusable building blocks.
+- Hosted services designed for dependable everyday use.
+- Secure, maintainable infrastructure that supports each product.
 
-Brand sources, exact infrastructure, planned deployment configuration, and private
-product work are maintained in restricted repositories until explicitly approved for
-release.
+Public products, services, and source repositories are listed here as they become
+available.
 
-## Repository map
+## Explore ODOM Tech
 
-| Repository | Visibility | Responsibility |
-| --- | --- | --- |
-| `homelab-docs` | Public | Sanitized architecture, build, operations, and recovery guides |
-| `homelab-blueprints` | Public | Sanitized examples, schemas, and future automation patterns |
-| `brand-assets` | Private | Brand sources, release assets, and validation |
-| `homelab-infrastructure` | Private | Exact inventory, Proxmox, network, automation, and recovery source |
-| `homelab-services` | Private | Planned service catalog, placement, deployment design, and runbooks |
-| `internal-dashboard` | Private | Tailnet-only dashboard requirements and future application source |
+- [Visit odomtech.com](https://odomtech.com)
+- [Browse public repositories](https://github.com/orgs/odom-technology/repositories?type=public)
+- [Contact contact@odomtech.com](mailto:contact@odomtech.com)
 
-Substantial custom applications receive their own repositories. Their deployment
-integration remains in `homelab-services`.
-
-## Project principles
-
-- Rebuildable infrastructure instead of undocumented manual configuration.
-- Secure defaults and explicit trust boundaries.
-- Recovery procedures tested from clean installations.
-- Examples that never disclose production secrets, addresses, or identifiers.
+ODOM Tech is built by [Andrew Odom](https://github.com/andrewodom18).
