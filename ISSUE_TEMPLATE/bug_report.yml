@@ -1,12 +1,17 @@
 name: Bug report
-description: Report a reproducible problem in an ODOM Technology project.
+description: Report a reproducible problem in an ODOM Tech project.
 title: "[Bug]: "
 labels:
   - bug
 body:
   - type: markdown
     attributes:
-      value: Remove secrets and private infrastructure details before submitting.
+      value: Remove secrets, private identifiers, customer data, and personal information before submitting.
+  - type: input
+    id: version
+    attributes:
+      label: Version or revision
+      description: Which release, commit, service version, or browser build is affected?
   - type: textarea
     id: problem
     attributes:
@@ -25,7 +30,7 @@ body:
     id: environment
     attributes:
       label: Environment
-      description: Relevant versions and platform details without unique identifiers.
+      description: Relevant platform, runtime, browser, or deployment details without unique identifiers.
   - type: textarea
     id: logs
     attributes:

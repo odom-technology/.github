@@ -2,21 +2,23 @@
 
 ## Workflow
 
-1. Open an issue before substantial architectural changes.
-2. Create work from the `dev` branch.
-3. Keep commits focused and explain operational consequences.
-4. Update tests, examples, and documentation with behavior changes.
-5. Confirm that all submitted material is sanitized.
+1. Read the target repository's README, contribution guide, and local instructions.
+2. Open an issue before substantial product, interface, or architectural changes.
+3. Unless the repository documents another workflow, create work from the `dev` branch.
+4. Keep commits focused and explain user-facing and operational consequences.
+5. Update tests, examples, and documentation with behavior changes.
+6. Confirm that all submitted material is sanitized.
 
 ## Sanitization
 
-Never commit credentials, recovery codes, private addresses, Tailnet identifiers,
-camera URLs, device serial numbers, MAC addresses, internal domains, personal data,
-or exact production inventory to a public repository. Use RFC 5737 documentation
-addresses and clearly marked example values.
+Never commit credentials, recovery codes, private keys, internal endpoints, private
+network details, device identifiers, production inventory, customer information, or
+other personal data to a public repository. Sanitize logs and screenshots. Use reserved
+example domains, RFC 5737 documentation addresses, and clearly marked placeholder
+values in documentation and tests.
 
 ## Licensing
 
-Unless a repository states otherwise, source code is intended for Apache-2.0 and
-written guides for CC BY-SA 4.0. Contributions must be compatible with the licenses
-declared by the target repository.
+The target repository's license and contribution terms control. ODOM Tech does not
+apply an organization-wide default license. If a repository has no license, do not
+assume permission to copy, modify, or redistribute its contents.
