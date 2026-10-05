@@ -15,6 +15,8 @@ routes visitors to the public portfolio at
 - `ISSUE_TEMPLATE/` — organization-wide issue forms and routing.
 - `workflow-templates/` — requirements and future home for reusable starter workflows;
   no organization workflow template is currently published.
+- [`ACTIONS_POLICY.md`](ACTIONS_POLICY.md) — main-only run and deployment policy for
+  organization repositories.
 - `CONTRIBUTING.md` — contribution expectations shared by public projects.
 - `SECURITY.md` — responsible vulnerability-reporting policy.
 - `SUPPORT.md` — support boundaries and help channels.
