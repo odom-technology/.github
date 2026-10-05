@@ -8,6 +8,9 @@
 4. Keep commits focused and explain user-facing and operational consequences.
 5. Update tests, examples, and documentation with behavior changes.
 6. Confirm that all submitted material is sanitized.
+7. Follow the [GitHub Actions run policy](https://github.com/odom-technology/.github/blob/main/ACTIONS_POLICY.md):
+   workflows that start jobs or deploy run only on pushes to `main`. Review triggers
+   before adding automation.
 
 ## Sanitization
 
