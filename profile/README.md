@@ -7,9 +7,9 @@
 # Practical technology, built with purpose
 
 ODOM Tech is an independent product studio building practical software, developer
-tools, hosted services, and the reliable infrastructure behind them.
+tools, games, and the reliable infrastructure behind them.
 
-[Portfolio](https://odom-technology.github.io) ·
+[Portfolio](https://odomtech.com) ·
 [GitHub](https://github.com/odom-technology) ·
 [Contact](mailto:contact@odomtech.com)
 
