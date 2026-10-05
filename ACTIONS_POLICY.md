@@ -46,3 +46,10 @@ This repository contains guidance, not a central branch-filter enforcement mecha
 Repository workflow triggers must carry the `main` filter. Organization-level Actions
 event restrictions, when available, can provide an additional event guard but cannot
 replace each workflow's branch filter.
+
+GitHub-managed Dependabot and Pages workflows may also appear in Actions history outside
+`.github/workflows/`. [GitHub's billing documentation](https://docs.github.com/en/billing/concepts/product-billing/github-actions)
+excludes standard GitHub-hosted Dependabot and Pages runs from included Actions-minute
+usage; keep Dependabot security updates enabled. External GitHub Apps such as hosting
+providers can create checks on `dev` without running a GitHub Actions workflow, so
+review their branch settings separately when deployment previews need restriction.
