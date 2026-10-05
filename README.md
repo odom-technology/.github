@@ -4,8 +4,7 @@ This repository contains the public organization profile, contribution guidance,
 security policy, support guidance, issue forms, pull-request template, and the policy
 for future reusable GitHub workflow templates for the `odom-technology` organization.
 
-ODOM Tech is an independent product studio building software products, developer tools,
-hosted services, and the reliable infrastructure that supports them. The public profile
+The public profile
 routes visitors to the public portfolio at
 [odom-technology.github.io](https://odom-technology.github.io).
 
