@@ -9,6 +9,6 @@ ODOM Tech is an independent product studio creating software for work, explorati
 
 [Portfolio](https://odomtech.com) ·
 [GitHub](https://github.com/odom-technology) ·
-[Contact](mailto:contact@odomtech.com)
+[Contact](https://odomtech.com/contact/)
 
 Built by [Andrew Odom](https://github.com/andrewodom18).

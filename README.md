@@ -6,7 +6,7 @@ for future reusable GitHub workflow templates for the `odom-technology` organiza
 
 The public profile
 routes visitors to the public portfolio at
-[odom-technology.github.io](https://odom-technology.github.io).
+[odomtech.com](https://odomtech.com).
 
 ## Structure
 
