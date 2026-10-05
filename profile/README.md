@@ -4,10 +4,8 @@
   <img alt="ODOM Tech — Open Development & Operations Mesh" src="./assets/odom-tech-horizontal-black.svg" width="720">
 </picture>
 
-# Practical technology, built with purpose
-
-ODOM Tech is an independent product studio building practical software, developer
-tools, games, and the reliable infrastructure behind them.
+ODOM Tech is an independent product studio creating software for work, exploration, and play. We build developer tools, hosted services, and interactive experiences, along with the reliable infrastructure that supports them.
+***
 
 [Portfolio](https://odomtech.com) ·
 [GitHub](https://github.com/odom-technology) ·
