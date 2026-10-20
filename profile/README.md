@@ -4,11 +4,12 @@
   <img alt="ODOM Tech — Open Development & Operations Mesh" src="./assets/odom-tech-horizontal-black.svg" width="720">
 </picture>
 
-ODOM Tech is an independent product studio creating software for work, exploration, and play. We build developer tools, hosted services, and interactive experiences, along with the reliable infrastructure that supports them.
+ODOM Tech is the home for my independent software projects, developer tools, and tech experiments. I’m Andrew Odom, the person behind it.
 ***
 
 [Portfolio](https://odomtech.com) ·
 [GitHub](https://github.com/odom-technology) ·
-[Contact](https://odomtech.com/contact/)
+[Contact](https://odomtech.com/contact/) ·
+[Support ODOM Tech](https://buymeacoffee.com/odomtech)
 
 Built by [Andrew Odom](https://github.com/andrewodom18).
